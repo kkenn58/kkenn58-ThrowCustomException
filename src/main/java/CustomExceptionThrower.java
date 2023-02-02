@@ -17,6 +17,7 @@ public class CustomExceptionThrower {
      */
     public void throwCustomException() throws CustomException{
         throw new CustomException();
+        
     }
 
 }
